@@ -1,1 +1,2 @@
-# project-1
+.[22,27,16,2,18,6] -> Insertion Sort Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
+ [22,27,16,2,18,6] bu dizide bulunan en küçük elemanı 1. sıraya yerleştiriyoruz ve diğer elemanı değiştirdiğimiz sayının yerine koyuyoruz [2,27,16,22,18,6],daha sonra 2.en küçük elemanı 2. sıraya yerleştiriyoruz [2,6,16,22,18,27],3. en küçük eleman zaten yerinde olduğu için değişim yapmıyoruz,4. en küçük elemanın 4. sıraya yerleştiriyoruz [2,6,16,18,22,27]5. ve 6. eleman sıralamaya 
